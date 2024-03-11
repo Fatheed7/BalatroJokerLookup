@@ -11,7 +11,7 @@ $(document).ready(function() {
                 "data": "Image",
                 "render": function(data, type, row) {
                     if (type === 'display') {
-                        return '<img src="assets/images/' + data + '" alt="' + row.Name + '">';
+                        return '<img src="assets/images/' + data + '" alt="' + row.Name + '" loading="lazy">';
                     }
                     return data;
                 }
