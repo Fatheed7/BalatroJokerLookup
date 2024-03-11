@@ -1,0 +1,1929 @@
+[
+    {
+        "Position": "1",
+        "Name": "Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available before the start - this cheeky chappy shows you the tutorial!",
+        "Effect": "+4 Mult",
+        "Image": "Joker.png",
+        "Tags": [
+            "+4",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "2",
+        "Name": "Greedy Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Played cards with Diamond suit give +4 Mult when scored",
+        "Image": "Greedy_Joker.png",
+        "Tags": [
+            "+4",
+            "Mult",
+            "Diamond"
+        ]
+    },
+    {
+        "Position": "3",
+        "Name": "Lusty Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Played cards with Heart suit give +4 Mult when scored",
+        "Image": "Lusty_Joker.png",
+        "Tags": [
+            "+4",
+            "Mult",
+            "Heart"
+        ]
+    },
+    {
+        "Position": "4",
+        "Name": "Wrathful Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Played cards with Spade suit give +4 Mult when scored",
+        "Image": "Wrathful_Joker.png",
+        "Tags": [
+            "+4",
+            "Mult",
+            "Spade"
+        ]
+    },
+    {
+        "Position": "5",
+        "Name": "Gluttonous Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Played cards with Club suit give +4 Mult when scored",
+        "Image": "Gluttonous_Joker.png",
+        "Tags": [
+            "+4",
+            "Mult",
+            "Club"
+        ]
+    },
+    {
+        "Position": "6",
+        "Name": "Jolly Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+8 Mult if played hand contains a Pair",
+        "Image": "Jolly_Joker.png",
+        "Tags": [
+            "+8",
+            "Mult",
+            "Pair"
+        ]
+    },
+    {
+        "Position": "7",
+        "Name": "Zany Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+12 Mult if played hand contains a Three of a Kind",
+        "Image": "Zany_Joker.png",
+        "Tags": [
+            "+12",
+            "Mult",
+            "Three of a Kind"
+        ]
+    },
+    {
+        "Position": "8",
+        "Name": "Mad Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+20 Mult if played hand contains a Four of a Kind",
+        "Image": "Mad_Joker.png",
+        "Tags": [
+            "+20",
+            "Mult",
+            "Four of a Kind"
+        ]
+    },
+    {
+        "Position": "9",
+        "Name": "Crazy Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+12 Mult if played hand contains a Straight",
+        "Image": "Crazy_Joker.png",
+        "Tags": [
+            "+12",
+            "Mult",
+            "Straight"
+        ]
+    },
+    {
+        "Position": "10",
+        "Name": "Droll Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+10 Mult if the played hand contains a Flush",
+        "Image": "Droll_Joker.png",
+        "Tags": [
+            "+10",
+            "Mult",
+            "Flush"
+        ]
+    },
+    {
+        "Position": "11",
+        "Name": "Sly Joker",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+50 Chips if played hand contains a Pair",
+        "Image": "Sly_Joker.png",
+        "Tags": [
+            "+50",
+            "Chips",
+            "Pair"
+        ]
+    },
+    {
+        "Position": "12",
+        "Name": "Wily Joker",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+100 Chips if played hand contains a Three of a Kind",
+        "Image": "Wily_Joker.png",
+        "Tags": [
+            "+100",
+            "Chips",
+            "Three of a Kind"
+        ]
+    },
+    {
+        "Position": "13",
+        "Name": "Clever Joker",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+150 Chips if played hand contains a Four of a Kind",
+        "Image": "Clever_Joker.png",
+        "Tags": [
+            "+150",
+            "Chips",
+            "Four of a Kind"
+        ]
+    },
+    {
+        "Position": "14",
+        "Name": "Devious Joker",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+100 Chips if played hand contains a Straight",
+        "Image": "Devious_Joker.png",
+        "Tags": [
+            "+100",
+            "Chips",
+            "Straight"
+        ]
+    },
+    {
+        "Position": "15",
+        "Name": "Crafty Joker",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+80 Chips if played hand contains a Flush",
+        "Image": "Crafty_Joker.png",
+        "Tags": [
+            "+80",
+            "Chips",
+            "Flush"
+        ]
+    },
+    {
+        "Position": "16",
+        "Name": "Half Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+20 Mult if played hand contains 3 or fewer cards",
+        "Image": "Half_Joker.png",
+        "Tags": [
+            "+20",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "17",
+        "Name": "Joker Stencil",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "x1 Mult for each empty Joker slot.",
+        "Image": "Joker_Stencil.png",
+        "Tags": [
+            "x1",
+            "Mult",
+            "Joker"
+        ]
+    },
+    {
+        "Position": "18",
+        "Name": "Four Fingers",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "All Flushes and Straights can be made with 4 cards.",
+        "Image": "Four_Fingers.png",
+        "Tags": [
+            "Straight",
+            "Flush"
+        ]
+    },
+    {
+        "Position": "19",
+        "Name": "Mime",
+        "Rarity": "Uncommon",
+        "Type": "Retrigger",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Retrigger all card 'held in hand' abilities",
+        "Image": "Mime.png",
+        "Tags": [
+            "Retrigger",
+            "Held in hand"
+        ]
+    },
+    {
+        "Position": "20",
+        "Name": "Credit Card",
+        "Rarity": "Common",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Go up to -$20 in debt",
+        "Image": "Credit_Card.png",
+        "Tags": []
+    },
+    {
+        "Position": "21",
+        "Name": "Ceremonial Dagger",
+        "Rarity": "Uncommon",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "When Blind is selected, destroy Joker to the right and permanently add double its sell value to this Mult",
+        "Image": "Ceremonial_Dagger.png",
+        "Tags": [
+            "Mult",
+            "Destroy",
+            "Joker"
+        ]
+    },
+    {
+        "Position": "22",
+        "Name": "Banner",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+40 Chips for every remaining Discard",
+        "Image": "Banner.png",
+        "Tags": [
+            "+40",
+            "Chips"
+        ]
+    },
+    {
+        "Position": "23",
+        "Name": "Mystic Summit",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+15 Mult when 0 Discards remaining",
+        "Image": "Mystic_Summit.png",
+        "Tags": [
+            "+15",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "24",
+        "Name": "Marble Joker",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Adds one Stone card to the deck when Blind is selected",
+        "Image": "Marble_Joker.png",
+        "Tags": []
+    },
+    {
+        "Position": "25",
+        "Name": "Loyalty Card",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "x4 Mult every 6 hands played. (Bonus only applies on every 6th hand played.)",
+        "Image": "Loyalty_Card.png",
+        "Tags": [
+            "x4",
+            "Mult",
+            "Hands"
+        ]
+    },
+    {
+        "Position": "26",
+        "Name": "8 Ball",
+        "Rarity": "Common",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Creates a Planet card (if you have room) when the played hand holds at least two 8s.",
+        "Image": "8_Ball.png",
+        "Tags": [
+            "Planet",
+            "8"
+        ]
+    },
+    {
+        "Position": "27",
+        "Name": "Misprint",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Adds a random Mult between 0 and 23 inclusive.",
+        "Image": "Misprint.png",
+        "Tags": [
+            "Mult"
+        ]
+    },
+    {
+        "Position": "28",
+        "Name": "Dusk",
+        "Rarity": "Uncommon",
+        "Type": "Retrigger",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Retrigger all played cards in final hand of round",
+        "Image": "Dusk.png",
+        "Tags": []
+    },
+    {
+        "Position": "29",
+        "Name": "Raised Fist",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Adds double the rank of lowest card held in hand to Mult.",
+        "Image": "Raised_Fist.png",
+        "Tags": [
+            "Mult"
+        ]
+    },
+    {
+        "Position": "30",
+        "Name": "Chaos the Clown",
+        "Rarity": "Common",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "1 free reroll per shop",
+        "Image": "Chaos_the_Clown.png",
+        "Tags": [
+            "Shop"
+        ]
+    },
+    {
+        "Position": "31",
+        "Name": "Fibonacci",
+        "Rarity": "Uncommon",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Each played Ace, 2, 3, 5, and 8 gives +8 Mult when scored.",
+        "Image": "Fibonacci.png",
+        "Tags": [
+            "+8",
+            "Mult",
+            "Ace",
+            "2",
+            "3",
+            "5",
+            "8"
+        ]
+    },
+    {
+        "Position": "32",
+        "Name": "Steel Joker",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "This Joker gains x0.25 Mult for each Steel Card in your full deck",
+        "Image": "Steel_Joker.png",
+        "Tags": [
+            "x0.25",
+            "Mult",
+            "Steel"
+        ]
+    },
+    {
+        "Position": "33",
+        "Name": "Scary Face",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Played face cards give +30 Chips when scored",
+        "Image": "Scary_Face.png",
+        "Tags": [
+            "+30",
+            "Chips",
+            "Face Cards"
+        ]
+    },
+    {
+        "Position": "34",
+        "Name": "Abstract Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+3 Mult for each Joker card",
+        "Image": "Abstract_Joker.png",
+        "Tags": [
+            "+3",
+            "Mult",
+            "Joker"
+        ]
+    },
+    {
+        "Position": "35",
+        "Name": "Delayed Gratification",
+        "Rarity": "Common",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Earn $2 per discard if no discards are used by end of the round",
+        "Image": "Delayed_Gratification.png",
+        "Tags": []
+    },
+    {
+        "Position": "36",
+        "Name": "Hack",
+        "Rarity": "Uncommon",
+        "Type": "Retrigger",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Retriggers each played 2, 3, 4, and 5",
+        "Image": "Hack.png",
+        "Tags": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "Position": "37",
+        "Name": "Pareidolia",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "All cards are considered face cards.",
+        "Image": "Pareidolia.png",
+        "Tags": [
+            "Face Cards"
+        ]
+    },
+    {
+        "Position": "38",
+        "Name": "Gros Michel",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+15 Mult. 1 in 4 chance this card is destroyed at the end of each round",
+        "Image": "Gros_Michel.png",
+        "Tags": [
+            "+15",
+            "Mult",
+            "Destroy"
+        ]
+    },
+    {
+        "Position": "39",
+        "Name": "Even Steven",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Played cards with even rank give +4 Mult when scored",
+        "Image": "Even_Steven.png",
+        "Tags": [
+            "+4",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "40",
+        "Name": "Odd Todd",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Played cards with odd rank give +30 Chips when scored",
+        "Image": "Odd_Todd.png",
+        "Tags": [
+            "+30",
+            "Chips"
+        ]
+    },
+    {
+        "Position": "41",
+        "Name": "Scholar",
+        "Rarity": "Common",
+        "Type": "Chips, Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Played Aces give +20 Chips and +4 Mult when scored",
+        "Image": "Scholar.png",
+        "Tags": [
+            "+20",
+            "Chips",
+            "+4",
+            "Mult",
+            "Ace"
+        ]
+    },
+    {
+        "Position": "42",
+        "Name": "Business Card",
+        "Rarity": "Common",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Played face cards have a 1 in 2 chance to give $2 when scored.",
+        "Image": "Business_Card.png",
+        "Tags": [
+            "Face Cards"
+        ]
+    },
+    {
+        "Position": "43",
+        "Name": "Supernova",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Adds the number of times poker hand has been played to Mult",
+        "Image": "Supernova.png",
+        "Tags": [
+            "Mult"
+        ]
+    },
+    {
+        "Position": "44",
+        "Name": "Ride the Bus",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+1 Mult for every hand played without a scoring face card. Resets to +0 Mult when a face card is scored.",
+        "Image": "Ride_the_Bus.png",
+        "Tags": [
+            "+1",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "45",
+        "Name": "Space Joker",
+        "Rarity": "Uncommon",
+        "Type": "Upgrade Hand",
+        "Unlock Requirement": "Available from start",
+        "Effect": "1 in 4 chance to upgrade the level of played poker hand, before it's scored.",
+        "Image": "Space_Joker.png",
+        "Tags": []
+    },
+    {
+        "Position": "46",
+        "Name": "Egg",
+        "Rarity": "Common",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Gains $3 of sell value at end of round",
+        "Image": "Egg.png",
+        "Tags": []
+    },
+    {
+        "Position": "47",
+        "Name": "Burglar",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "When Blind is selected, gain +3 Hands and lose all discards",
+        "Image": "Burglar.png",
+        "Tags": []
+    },
+    {
+        "Position": "48",
+        "Name": "Blackboard",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "x3 Mult if all cards held in hand are Spades or Clubs",
+        "Image": "Blackboard.png",
+        "Tags": [
+            "x3",
+            "Mult",
+            "Spade",
+            "Club"
+        ]
+    },
+    {
+        "Position": "49",
+        "Name": "Runner",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Gains +10 Chips if played hand contains a Straight.",
+        "Image": "Runner.png",
+        "Tags": [
+            "+10",
+            "Chips",
+            "Straight"
+        ]
+    },
+    {
+        "Position": "50",
+        "Name": "Ice Cream",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+100 Chips. -5 Chips for every hand played.",
+        "Image": "Ice_Cream.png",
+        "Tags": [
+            "+100",
+            "Chips"
+        ]
+    },
+    {
+        "Position": "51",
+        "Name": "DNA",
+        "Rarity": "Rare",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "If first hand of round has only 1 card, add a permanent copy to deck and draw it to hand",
+        "Image": "DNA.png",
+        "Tags": []
+    },
+    {
+        "Position": "52",
+        "Name": "Splash",
+        "Rarity": "Common",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Every played card counts in scoring",
+        "Image": "Splash.png",
+        "Tags": []
+    },
+    {
+        "Position": "53",
+        "Name": "Blue Joker",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+2 Chips for each remaining card in your deck.",
+        "Image": "Blue_Joker.png",
+        "Tags": [
+            "+2",
+            "Chips"
+        ]
+    },
+    {
+        "Position": "54",
+        "Name": "Sixth Sense",
+        "Rarity": "Rare",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "If first played hand of the round is a single 6, destroy it and create a Spectral card, if you have room",
+        "Image": "Sixth_Sense.png",
+        "Tags": [
+            "Spectral"
+        ]
+    },
+    {
+        "Position": "55",
+        "Name": "Constellation",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Gains x0.1 Mult per Planet card used",
+        "Image": "Constellation.png",
+        "Tags": [
+            "x0.1",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "56",
+        "Name": "Hiker",
+        "Rarity": "Uncommon",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Every played card permanently gains +4 Chips when scored (until end of run)",
+        "Image": "Hiker.png",
+        "Tags": [
+            "+4",
+            "Chips"
+        ]
+    },
+    {
+        "Position": "57",
+        "Name": "Faceless Joker",
+        "Rarity": "Common",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Earn $5 if 3 or more face cards are discarded at the same time",
+        "Image": "Faceless_Joker.png",
+        "Tags": [
+            "Face Cards"
+        ]
+    },
+    {
+        "Position": "58",
+        "Name": "Green Joker",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+1 Mult per hand played. -1 Mult per discard",
+        "Image": "Green_Joker.png",
+        "Tags": [
+            "+1",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "59",
+        "Name": "Superposition",
+        "Rarity": "Common",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Create a Tarot card if poker hand contains an Ace and a Straight, if you have room",
+        "Image": "Superposition.png",
+        "Tags": [
+            "Straight",
+            "Tarot",
+            "Ace"
+        ]
+    },
+    {
+        "Position": "60",
+        "Name": "To Do List",
+        "Rarity": "Common",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Earn $5 if poker hand is a specific poker hand. The poker hand changes on every payout.",
+        "Image": "To_Do_List.png",
+        "Tags": []
+    },
+    {
+        "Position": "61",
+        "Name": "Cavendish",
+        "Rarity": "Common",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start, but only appears in shops if Gros Michel was destroyed by its 1 in 4 effect during the same run",
+        "Effect": "x3 Mult, but 1 in 1000 chance this card is destroyed at the end of round.",
+        "Image": "Cavendish.png",
+        "Tags": [
+            "x3",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "62",
+        "Name": "Card Sharp",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "x3 Mult if played poker hand has already been played this round",
+        "Image": "Card_Sharp.png",
+        "Tags": [
+            "x3",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "63",
+        "Name": "Red Card",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Starting at +0 Mult, gains +3 Mult when any Booster pack is skipped.",
+        "Image": "Red_Card.png",
+        "Tags": [
+            "+3",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "64",
+        "Name": "Madness",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "When Blind is selected, gain x0.5 Mult and destroy a random Joker",
+        "Image": "Madness.png",
+        "Tags": [
+            "x0.5",
+            "Mult",
+            "Joker"
+        ]
+    },
+    {
+        "Position": "65",
+        "Name": "Square Joker",
+        "Rarity": "Common",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Gains +4 Chips if played hand contains exactly four cards",
+        "Image": "Square_Joker.png",
+        "Tags": [
+            "+4",
+            "Chips"
+        ]
+    },
+    {
+        "Position": "66",
+        "Name": "S\u00e9ance",
+        "Rarity": "Rare",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "If poker hand is a Straight Flush, create a random Spectral card, if you have room",
+        "Image": "Seance.png",
+        "Tags": [
+            "Straight Flush",
+            "Spectral"
+        ]
+    },
+    {
+        "Position": "67",
+        "Name": "Riff-Raff",
+        "Rarity": "Common",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "When Blind is selected, create up to 2 Common Jokers, if you have room",
+        "Image": "Riff-Raff.png",
+        "Tags": [
+            "Joker"
+        ]
+    },
+    {
+        "Position": "68",
+        "Name": "Vampire",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Gains x0.2 Mult per Enhanced card played. Removes the Enhancement.",
+        "Image": "Vampire.png",
+        "Tags": [
+            "x0.2",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "69",
+        "Name": "Shortcut",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Straights can be made with gaps of 1 rank. There can be multiple gaps in a Straight.",
+        "Image": "Shortcut.png",
+        "Tags": [
+            "Straight"
+        ]
+    },
+    {
+        "Position": "70",
+        "Name": "Hologram",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Gains x0.25 Mult per playing card added to your deck.",
+        "Image": "Hologram.png",
+        "Tags": [
+            "x0.25",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "71",
+        "Name": "Vagabond",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Create a Tarot card if hand is played with $3 or less, if you have room",
+        "Image": "Vagabond.png",
+        "Tags": [
+            "Tarot"
+        ]
+    },
+    {
+        "Position": "72",
+        "Name": "Baron",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Each King held in hand gives x1.5 Mult",
+        "Image": "Baron.png",
+        "Tags": [
+            "x1.5",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "73",
+        "Name": "Cloud 9",
+        "Rarity": "Uncommon",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Earn $1 for each 9 in your complete deck at end of round",
+        "Image": "Cloud_9.png",
+        "Tags": [
+            "9"
+        ]
+    },
+    {
+        "Position": "74",
+        "Name": "Rocket",
+        "Rarity": "Uncommon",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Earn $1 at the end of round. Earning increases by $2 when Boss Blind is defeated",
+        "Image": "Rocket.png",
+        "Tags": [
+            "Boss Blind"
+        ]
+    },
+    {
+        "Position": "75",
+        "Name": "Obelisk",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "x0.2 Mult per consecutive hand played without playing your most played poker hand.",
+        "Image": "Obelisk.png",
+        "Tags": [
+            "x0.2",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "76",
+        "Name": "Midas Mask",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "All face cards become Gold cards when played",
+        "Image": "Midas_Mask.png",
+        "Tags": [
+            "Face Cards"
+        ]
+        
+    },
+    {
+        "Position": "77",
+        "Name": "Luchador",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Sell this card to disable the current Boss Blind.",
+        "Image": "Luchador.png",
+        "Tags": [
+            "Boss Blind"
+        ]
+    },
+    {
+        "Position": "78",
+        "Name": "Photograph",
+        "Rarity": "Common",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "First played face card gives x2 Mult when scored",
+        "Image": "Photograph.png",
+        "Tags": [
+            "x2",
+            "Mult",
+            "Face Cards"
+        ]
+    },
+    {
+        "Position": "79",
+        "Name": "Gift Card",
+        "Rarity": "Uncommon",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Adds $1 to the sell value of every Joker and Consumable card at the end of round",
+        "Image": "Gift_Card.png",
+        "Tags": [
+            "Joker",
+            "Consumable"
+        ]
+    },
+    {
+        "Position": "80",
+        "Name": "Turtle Bean",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+5 hand size. Reduces by 1 each round.",
+        "Image": "Turtle_Bean.png",
+        "Tags": [
+            "Hand Size"
+        ]
+    },
+    {
+        "Position": "81",
+        "Name": "Erosion",
+        "Rarity": "Uncommon",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+4 Mult for every card less than your starting deck amount in your complete deck",
+        "Image": "Erosion.png",
+        "Tags": [
+            "+4",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "82",
+        "Name": "Reserved Parking",
+        "Rarity": "Uncommon",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Each face card held in hand has a 1 in 2 chance to give $1",
+        "Image": "Reserved_Parking.png",
+        "Tags": [
+            "Face Cards"
+        ]
+    },
+    {
+        "Position": "83",
+        "Name": "Mail-In Rebate",
+        "Rarity": "Common",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Earn $3 for each discarded card of a random rank. Rank changes every round.",
+        "Image": "Mail-In_Rebate.png",
+        "Tags": []
+    },
+    {
+        "Position": "84",
+        "Name": "To The Moon",
+        "Rarity": "Uncommon",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Earn an extra $1 of interest for every $5 you have at the end of round",
+        "Image": "To_the_Moon.png",
+        "Tags": []
+    },
+    {
+        "Position": "85",
+        "Name": "Hallucination",
+        "Rarity": "Common",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "When any Booster Pack is opened, there is a 1 in 2 chance of creating a random Tarot card, if you have room",
+        "Image": "Hallucination.png",
+        "Tags": [
+            "Tarot"
+        ]
+    },
+    {
+        "Position": "86",
+        "Name": "Fortune Teller",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+1 Mult per Tarot card used this run.",
+        "Image": "Fortune_Teller.png",
+        "Tags": [
+            "+1",
+            "Mult",
+            "Tarot"
+        ]
+    },
+    {
+        "Position": "87",
+        "Name": "Juggler",
+        "Rarity": "Common",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+1 to your hand size",
+        "Image": "Juggler.png",
+        "Tags": []
+    },
+    {
+        "Position": "88",
+        "Name": "Drunkard",
+        "Rarity": "Common",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+1 discard",
+        "Image": "Drunkard.png",
+        "Tags": []
+    },
+    {
+        "Position": "89",
+        "Name": "Stone Joker",
+        "Rarity": "Uncommon",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "This Joker gains +25 Chips for each Stone Card in your full deck",
+        "Image": "Stone_Joker.png",
+        "Tags": [
+            "+25",
+            "Chips"
+        ]
+    },
+    {
+        "Position": "90",
+        "Name": "Golden Joker",
+        "Rarity": "Common",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Earn $4 at the end of each round",
+        "Image": "Golden_Joker.png",
+        "Tags": []
+    },
+    {
+        "Position": "91",
+        "Name": "Lucky Cat",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Gains x0.2 Mult each time a Lucky card successfully triggers.",
+        "Image": "Lucky_Cat.png",
+        "Tags": [
+            "x0.2",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "92",
+        "Name": "Baseball Card",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Uncommon Jokers each give x1.5 Mult.",
+        "Image": "Baseball_Card.png",
+        "Tags": [
+            "x1.5",
+            "Mult",
+            "Joker"
+        ]
+    },
+    {
+        "Position": "93",
+        "Name": "Bull",
+        "Rarity": "Uncommon",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+2 Chips for each dollar you have",
+        "Image": "Bull.png",
+        "Tags": [
+            "+2",
+            "Chips"
+        ]
+    },
+    {
+        "Position": "94",
+        "Name": "Diet Cola",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Sell this card to create a free Double Tag",
+        "Image": "Diet_Cola.png",
+        "Tags": []
+    },
+    {
+        "Position": "95",
+        "Name": "Trading Card",
+        "Rarity": "Uncommon",
+        "Type": "Economy",
+        "Unlock Requirement": "Available from start",
+        "Effect": "If first discard of round has only 1 card, destroy it and earn $3",
+        "Image": "Trading_Card.png",
+        "Tags": []
+    },
+    {
+        "Position": "96",
+        "Name": "Flash Card",
+        "Rarity": "Uncommon",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "+2 Mult per reroll in the shop.",
+        "Image": "Flash_Card.png",
+        "Tags": [
+            "+2",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "97",
+        "Name": "Popcorn",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Starts at +20 Mult, but -4 Mult for each round played.",
+        "Image": "Popcorn.png",
+        "Tags": [
+            "+20",
+            "-4",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "98",
+        "Name": "Spare Trousers",
+        "Rarity": "Uncommon",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Gains +2 Mult if a scoring hand contains a Two Pair.",
+        "Image": "Spare_Trousers.png",
+        "Tags": [
+            "+2",
+            "Mult",
+            "Two Pair"
+        ]
+    },
+    {
+        "Position": "99",
+        "Name": "Ancient Joker",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "x1.5 Mult for each card played of a specific suit. The suit changes at the end of each round",
+        "Image": "Ancient_Joker.png",
+        "Tags": [
+            "x1.5",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "100",
+        "Name": "Ramen",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Gives x2 Mult. Loses x0.01 Mult per card discarded (for any reason)",
+        "Image": "Ramen.png",
+        "Tags": [
+            "x2",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "101",
+        "Name": "Walkie Talkie",
+        "Rarity": "Common",
+        "Type": "Chips, Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Each played 10 or 4 gives +10 Chips and +4 Mult when scored",
+        "Image": "Walkie_Talkie.png",
+        "Tags": [
+            "10",
+            "Chips",
+            "+4",
+            "Mult",
+            "10",
+            "4"
+        ]
+    },
+    {
+        "Position": "102",
+        "Name": "Seltzer",
+        "Rarity": "Uncommon",
+        "Type": "Retrigger",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Retrigger all cards played for the next 10 hands",
+        "Image": "Seltzer.png",
+        "Tags": [
+            "Hands"
+        ]
+    },
+    {
+        "Position": "103",
+        "Name": "Castle",
+        "Rarity": "Uncommon",
+        "Type": "Chips",
+        "Unlock Requirement": "Available from start",
+        "Effect": "This Joker gains +3 Chips per discarded card from a random Suit. The suit changes every round.",
+        "Image": "Castle.png",
+        "Tags": [
+            "+3",
+            "Chips"
+        ]
+    },
+    {
+        "Position": "104",
+        "Name": "Smiley Face",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "Played face cards give +4 Mult when scored",
+        "Image": "Smiley_Face.png",
+        "Tags": [
+            "+4",
+            "Mult",
+            "Face Cards"
+        ]
+    },
+    {
+        "Position": "105",
+        "Name": "Campfire",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Available from start",
+        "Effect": "This Joker gains x0.5 Mult for each card sold, resets when Boss Blind is defeated.",
+        "Image": "Campfire.png",
+        "Tags": [
+            "x0.5",
+            "Mult",
+            "Boss Blind"
+        ]
+    },
+    {
+        "Position": "106",
+        "Name": "Golden Ticket",
+        "Rarity": "Common",
+        "Type": "Economy",
+        "Unlock Requirement": "Play a five card hand that contains only Gold cards",
+        "Effect": "Played Gold cards earn $3 when scored",
+        "Image": "Golden_Ticket.png",
+        "Tags": [
+            "Gold"
+        ]
+    },
+    {
+        "Position": "107",
+        "Name": "Mr. Bones",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Lose five runs",
+        "Effect": "Prevents Death if Chips scored are at least 25% of the value required to beat the blind. Self Destructs after it saves you.",
+        "Image": "Mr._Bones.png",
+        "Tags": []
+    },
+    {
+        "Position": "108",
+        "Name": "Acrobat",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Play 200 hands",
+        "Effect": "x3 Mult on the final hand of the round",
+        "Image": "Acrobat.png",
+        "Tags": [
+            "x3",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "109",
+        "Name": "Sock and Buskin",
+        "Rarity": "Uncommon",
+        "Type": "Retrigger",
+        "Unlock Requirement": "Play 300 face cards (Jacks, Queens or Kings)",
+        "Effect": "Retriggers all face cards an additional time.",
+        "Image": "Sock_and_Buskin.png",
+        "Tags": [
+            "Face Cards"
+        ]
+    },
+    {
+        "Position": "110",
+        "Name": "Swashbuckler",
+        "Rarity": "Common",
+        "Type": "Effect",
+        "Unlock Requirement": "Sell 20 Joker cards",
+        "Effect": "Adds the sell value of all owned Jokers left of this card to Mult",
+        "Image": "Swashbuckler.png",
+        "Tags": [
+            "Joker",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "111",
+        "Name": "Troubadour",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Win 5 consecutive rounds by playing only a single hand in each. (Discards are fine.)",
+        "Effect": "+2 hand size. -1 hands per round",
+        "Image": "Troubadour.png",
+        "Tags": [
+            "Hand Size",
+            "Hands"
+        ]
+    },
+    {
+        "Position": "112",
+        "Name": "Certificate",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Have a Gold Card that also has a Gold Seal",
+        "Effect": "When round begins, add a random playing card with a random seal to your hand",
+        "Image": "Certificate.png",
+        "Tags": []
+    },
+    {
+        "Position": "113",
+        "Name": "Smeared Joker",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Have 3 or more Wild Cards in your deck",
+        "Effect": "Hearts and Diamonds count as the same suit, Spades and Clubs count as the same suit",
+        "Image": "Smeared_Joker.png",
+        "Tags": [
+            "Heart",
+            "Diamond",
+            "Spade",
+            "Club"
+        ]
+    },
+    {
+        "Position": "114",
+        "Name": "Throwback",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Continue a Saved run from the main menu.",
+        "Effect": "x0.25 Mult for each Blind skipped this run",
+        "Image": "Throwback.png",
+        "Tags": [
+            "x0.25",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "115",
+        "Name": "Hanging Chad",
+        "Rarity": "Common",
+        "Type": "Retrigger",
+        "Unlock Requirement": "Beat a Boss Blind with a High Card hand",
+        "Effect": "Retrigger the first played card used in scoring",
+        "Image": "Hanging_Chad.png",
+        "Tags": [
+            "Boss Blind"
+        ]
+    },
+    {
+        "Position": "116",
+        "Name": "Rough Gem",
+        "Rarity": "Uncommon",
+        "Type": "Economy",
+        "Unlock Requirement": "Have at least 30 Diamonds in your deck",
+        "Effect": "Played cards with Diamond suit earn $1 when scored",
+        "Image": "Rough_Gem.png",
+        "Tags": [
+            "Diamond"
+        ]
+    },
+    {
+        "Position": "117",
+        "Name": "Bloodstone",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Have at least 30 Hearts in your deck",
+        "Effect": "1 in 3 chance for played cards with Heart suit to give x2 Mult when scored",
+        "Image": "Bloodstone.png",
+        "Tags": [
+            "Heart",
+            "x2",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "118",
+        "Name": "Arrowhead",
+        "Rarity": "Uncommon",
+        "Type": "Chips",
+        "Unlock Requirement": "Have at least 30 Spades in your deck",
+        "Effect": "Played cards with Spade suit give +50 Chips when scored",
+        "Image": "Arrowhead.png",
+        "Tags": [
+            "Spade",
+            "+50",
+            "Chips"
+        ]
+    },
+    {
+        "Position": "119",
+        "Name": "Onyx Agate",
+        "Rarity": "Uncommon",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Have at least 30 Clubs in your deck",
+        "Effect": "Played cards with Club suit give +8 Mult when scored",
+        "Image": "Onyx_Agate.png",
+        "Tags": [
+            "Club",
+            "+8",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "120",
+        "Name": "Glass Joker",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Have 5 or more Glass Cards in your deck",
+        "Effect": "Gain x0.5 Mult for each Glass Card that is destroyed",
+        "Image": "Glass_Joker.png",
+        "Tags": [
+            "Glass",
+            "x0.5",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "121",
+        "Name": "Showman",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Reach Ante Level 4",
+        "Effect": "Joker, Tarot, Planet, and Spectral cards may appear multiple times",
+        "Image": "Showman.png",
+        "Tags": [
+            "Joker",
+            "Tarot",
+            "Planet",
+            "Spectral"
+        ]
+    },
+    {
+        "Position": "122",
+        "Name": "Flower Pot",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Reach Ante Level 8",
+        "Effect": "x3 Mult if played hand has a scoring Diamond card, Club card, Heart card, and Spade card.",
+        "Image": "Flower_Pot.png",
+        "Tags": [
+            "x3",
+            "Mult",
+            "Heart",
+            "Diamond",
+            "Spade",
+            "Club"
+        ]
+    },
+    {
+        "Position": "123",
+        "Name": "Blueprint",
+        "Rarity": "Rare",
+        "Type": "Effect",
+        "Unlock Requirement": "Win a run",
+        "Effect": "Copies ability of Joker to the right",
+        "Image": "Blueprint.png",
+        "Tags": [
+            "Joker"
+        ]
+    },
+    {
+        "Position": "124",
+        "Name": "Wee Joker",
+        "Rarity": "Rare",
+        "Type": "Chips",
+        "Unlock Requirement": "Win a run in 18 or fewer rounds",
+        "Effect": "This Joker gains +8 Chips when each played 2 is scored.",
+        "Image": "Wee_Joker.png",
+        "Tags": [
+            "+8",
+            "Chips"
+        ]
+    },
+    {
+        "Position": "125",
+        "Name": "Merry Andy",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Win a run in 12 or fewer rounds",
+        "Effect": "+3 discards, -1 hand size",
+        "Image": "Merry_Andy.png",
+        "Tags": [
+            "Hand Size"
+        ]
+    },
+    {
+        "Position": "126",
+        "Name": "Oops! All 6s",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Earn at least 10,000 Chips in a single hand",
+        "Effect": "Doubles all probabilities.",
+        "Image": "Oops.png",
+        "Tags": []
+    },
+    {
+        "Position": "127",
+        "Name": "The Idol",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Earn at least 1 million (1,000,000) Chips in a single hand",
+        "Effect": "x2 Mult when a random, specific card is scored. Card changes every round.",
+        "Image": "The_Idol.png",
+        "Tags": [
+            "x2",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "128",
+        "Name": "Seeing Double",
+        "Rarity": "Uncommon",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Play a hand that contains four 7 of Clubs",
+        "Effect": "x2 Mult if played hand has a scoring Club card and a scoring card of any other suit",
+        "Image": "Seeing_Double.png",
+        "Tags": [
+            "x2",
+            "Mult",
+            "Club"
+        ]
+    },
+    {
+        "Position": "129",
+        "Name": "Matador",
+        "Rarity": "Uncommon",
+        "Type": "Economy",
+        "Unlock Requirement": "Defeat a Boss Blind in one hand, without using discards",
+        "Effect": "Earn $8 if the played hand triggers the Boss Blind's ability",
+        "Image": "Matador.png",
+        "Tags": [
+            "Boss Blind"
+        ]
+    },
+    {
+        "Position": "130",
+        "Name": "Hit the Road",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Discard five Jacks at the same time",
+        "Effect": "Gains x0.5 Mult for every Jack discarded this round",
+        "Image": "Hit_the_Road.png",
+        "Tags": [
+            "x0.5",
+            "Mult",
+            "Jack"
+        ]
+    },
+    {
+        "Position": "131",
+        "Name": "The Duo",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Win a run without playing a Pair. (Two Pairs, Three of a Kind, and other hands that contain pairs are fine.)",
+        "Effect": "x2 Mult when the hand contains a Pair",
+        "Image": "The_Duo.png",
+        "Tags": [
+            "x2",
+            "Mult",
+            "Pair"
+        ]
+    },
+    {
+        "Position": "132",
+        "Name": "The Trio",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Win a run without playing a Three of a Kind",
+        "Effect": "x3 Mult when the hand contains a Three of a Kind",
+        "Image": "The_Trio.png",
+        "Tags": [
+            "x3",
+            "Mult",
+            "Three of a Kind"
+        ]
+    },
+    {
+        "Position": "133",
+        "Name": "The Family",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Win a run without playing a Four of a Kind",
+        "Effect": "x4 Mult when the hand contains Four of a Kind",
+        "Image": "The_Family.png",
+        "Tags": [
+            "x4",
+            "Mult",
+            "Four of a Kind"
+        ]
+    },
+    {
+        "Position": "134",
+        "Name": "The Order",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Win a run without playing a Straight",
+        "Effect": "x3 Mult if played hand contains a Straight",
+        "Image": "The_Order.png",
+        "Tags": [
+            "x3",
+            "Mult",
+            "Straight"
+        ]
+    },
+    {
+        "Position": "135",
+        "Name": "The Tribe",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Win a run without playing a Flush",
+        "Effect": "2x Mult when the hand contains a Flush",
+        "Image": "The_Tribe.png",
+        "Tags": [
+            "x2",
+            "Mult",
+            "Flush"
+        ]
+    },
+    {
+        "Position": "136",
+        "Name": "Stuntman",
+        "Rarity": "Uncommon",
+        "Type": "Chips",
+        "Unlock Requirement": "Earn at least 100 million (100,000,000) Chips in a single hand",
+        "Effect": "+300 Chips, -2 hand size",
+        "Image": "Stuntman.png",
+        "Tags": [
+            "+300",
+            "Chips",
+            "Hand Size"
+        ]
+    },
+    {
+        "Position": "137",
+        "Name": "Invisible Joker",
+        "Rarity": "Rare",
+        "Type": "Effect",
+        "Unlock Requirement": "Win a run without having more than 4 Jokers at any one time",
+        "Effect": "After three rounds, sell this Joker to duplicate a random Joker",
+        "Image": "Invisible_Joker.png",
+        "Tags": [
+            "Joker"
+        ]
+    },
+    {
+        "Position": "138",
+        "Name": "Brainstorm",
+        "Rarity": "Rare",
+        "Type": "Effect",
+        "Unlock Requirement": "Discard a Royal Flush",
+        "Effect": "Copies the ability of leftmost Joker",
+        "Image": "Brainstorm.png",
+        "Tags": [
+            "Joker"
+        ]
+    },
+    {
+        "Position": "139",
+        "Name": "Satellite",
+        "Rarity": "Uncommon",
+        "Type": "Economy",
+        "Unlock Requirement": "Have $400 or more",
+        "Effect": "Gain $1 at the end of round for every unique Planet Card used this run",
+        "Image": "Satellite.png",
+        "Tags": [
+            "Planet"
+        ]
+    },
+    {
+        "Position": "140",
+        "Name": "Shoot the Moon",
+        "Rarity": "Common",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Play every Heart card in your deck in one round",
+        "Effect": "+13 Mult for each Queen held in hand",
+        "Image": "Shoot_the_Moon.png",
+        "Tags": [
+            "+13",
+            "Mult",
+            "Queen"
+        ]
+    },
+    {
+        "Position": "141",
+        "Name": "Driver's License",
+        "Rarity": "Rare",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "Enhance 16 or more cards in your deck",
+        "Effect": "x3 Mult if you have at least 16 enhanced cards",
+        "Image": "DriversLicense.png",
+        "Tags": [
+            "x3",
+            "Mult"
+        ]
+    },
+    {
+        "Position": "142",
+        "Name": "Cartomancer",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Discover every Tarot card",
+        "Effect": "Create a Tarot whenever Blind is selected, if there is room",
+        "Image": "Cartomancer.png",
+        "Tags": [
+            "Tarot",
+            "Blind"
+        ]
+    },
+    {
+        "Position": "143",
+        "Name": "Astronomer",
+        "Rarity": "Uncommon",
+        "Type": "Effect",
+        "Unlock Requirement": "Discover every Planet card",
+        "Effect": "All Planet cards and Celestial Packs in the shop are free",
+        "Image": "Astronomer.png",
+        "Tags": [
+            "Planet",
+            "Celestial"
+        ]
+    },
+    {
+        "Position": "144",
+        "Name": "Burnt Joker",
+        "Rarity": "Uncommon",
+        "Type": "Upgrade Hand",
+        "Unlock Requirement": "Sell 50 cards",
+        "Effect": "Upgrade the level of the first discarded poker hand each round.",
+        "Image": "Burnt_Joker.png",
+        "Tags": []
+    },
+    {
+        "Position": "145",
+        "Name": "Bootstraps",
+        "Rarity": "Uncommon",
+        "Type": "Additive Mult",
+        "Unlock Requirement": "Have at least 2 Polychrome Jokers",
+        "Effect": "+2 Mult for every $5 you have",
+        "Image": "Bootstraps.png",
+        "Tags": [
+            "+2",
+            "Mult"
+        ]        
+    },
+    {
+        "Position": "146",
+        "Name": "Canio",
+        "Rarity": "Legendary",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "A chance when using the Soul spectral card",
+        "Effect": "Gains x1 Mult when a face card is destroyed.",
+        "Image": "Canio.png",
+        "Tags": [
+            "x1",
+            "Mult"
+        ]   
+    },
+    {
+        "Position": "147",
+        "Name": "Triboulet",
+        "Rarity": "Legendary",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "A chance when using the Soul spectral card",
+        "Effect": "Played Kings and Queens each give x2 Mult when scored",
+        "Image": "Triboulet.png",
+        "Tags": [
+            "x2",
+            "Mult",
+            "King",
+            "Queen"
+        ]   
+    },
+    {
+        "Position": "148",
+        "Name": "Yorick",
+        "Rarity": "Legendary",
+        "Type": "Multiplicative Mult",
+        "Unlock Requirement": "A chance when using the Soul spectral card",
+        "Effect": "x5 Mult, but alas, only after using 23 discards",
+        "Image": "Yorick.png",
+        "Tags": [
+            "x5",
+            "Mult"
+        ]   
+    },
+    {
+        "Position": "149",
+        "Name": "Chicot",
+        "Rarity": "Legendary",
+        "Type": "Effect",
+        "Unlock Requirement": "A chance when using the Soul spectral card",
+        "Effect": "Disables effect of every Boss Blind",
+        "Image": "Chicot.png",
+        "Tags": [
+            "Boss Blind"
+        ]
+    },
+    {
+        "Position": "150",
+        "Name": "Perkeo",
+        "Rarity": "Legendary",
+        "Type": "Effect",
+        "Unlock Requirement": "A chance when using the Soul spectral card",
+        "Effect": "Create a Negative copy of 1 random Consumable card in your possession at the end of the shop",
+        "Image": "Perkeo.png",
+        "Tags": [
+            "Negative"
+        ]
+    }
+]
